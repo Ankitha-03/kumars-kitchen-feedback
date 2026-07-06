@@ -5,11 +5,7 @@ A QR-based anonymous restaurant feedback platform that bridges the communication
 
 ---
 
-## Live Demo
-- **Customer App:**
-- **Admin Dashboard:**
 
----
 
 ## The Problem
 Customers feel socially uncomfortable complaining directly to the owner. When they do complain, it leads to arguments. The owner never gets honest feedback, so problems never get fixed.
