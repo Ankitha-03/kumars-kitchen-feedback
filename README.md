@@ -41,7 +41,7 @@ Customers scan a QR code on their table, select a dish, give a star rating, and 
 
 **Database:** MongoDB
 
-**Deployment:** Vercel (frontend), Render (backend), MongoDB Atlas (database)
+
 
 ---
 Project built for Kumar's Kitchen, Bengaluru
